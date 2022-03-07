@@ -1,0 +1,25 @@
+body{
+background: linear-gradient(#e66465, #9198e5);
+}
+.div1{
+  background: orange;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 5px solid black ;
+
+}
+.div2{
+  background: #3E8EDE;
+  width: 4000px;
+  height: 220px;
+margin-top:400%;
+transform: translateX(210%);
+}
+
+.div3{
+  background: #EFDECD;
+  width: 500px;
+  height: 200px;
+
+}
